@@ -1,0 +1,27 @@
+
+/* p {
+    font-family: Arial, Helvetica, sans-serif
+} */
+h1, p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.words-container p{
+    text-align: left;
+    font-family:'Courier New', Courier, monospace;
+    max-width: 500px;
+    margin: auto;
+    padding: 5px 20px;
+}
+
+button {
+    background-color: lightgreen;
+    padding: 5px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+button#stop {
+    background-color: lightcoral;
+}
